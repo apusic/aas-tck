@@ -7,14 +7,14 @@ Product Name, Version and download URL (if applicable):
 
 Specification Name, Version and download URL:
 
-Jakarta EE Platform, Full Profile 8
+[Jakarta EE Platform, Full Profile 8](https://jakarta.ee/specifications/platform/8/)
 TCK Version, digital SHA-256 fingerprint and download URL:
 
 [Jakarta EE Platform CTS 8.0.2](http://download.eclipse.org/jakartaee/platform/8/eclipse-jakartaeetck-8.0.2.zip) , SHA-256: 14a21b617bb646055c2952f1422ec04a71389fb37301e1c2969f6c3700aee965
 
 Public URL of TCK Results Summary:
 
-[https://github.com/apusic/aas-tck/aas_10_1_tck_results.md](https://github.com/apusic/aas-tck/aas_10_1_tck_results.md)
+[https://github.com/apusic/aas-tck/blob/master/aas_10_1_tck_results.md](https://github.com/apusic/aas-tck/blob/master/aas_10_1_tck_results.md)
 
 
 Any Additional Specification Certification Requirements:
@@ -59,7 +59,7 @@ Apache Derby 10.14.2.0
    [runcts] OUT => [javatest.batch] Number of Tests with Errors = 0
 ```
 
-## assembly
+### assembly
 ```console
    [runcts] OUT => [javatest.batch] Completed running 30 tests.
    [runcts] OUT => [javatest.batch] Number of Tests Passed      = 30
@@ -67,7 +67,7 @@ Apache Derby 10.14.2.0
    [runcts] OUT => [javatest.batch] Number of Tests with Errors = 0
 ```
 
-## compat12
+### compat12
 ```console
    [runcts] OUT => [javatest.batch] Completed running 12 tests.
    [runcts] OUT => [javatest.batch] Number of Tests Passed      = 12
@@ -391,18 +391,18 @@ Apache Derby 10.14.2.0
 
 ### jpa
 ```console
-   [javatest.batch] Completed running 11027 tests.
-   [javatest.batch] Number of Tests Passed      = 11027
-   [javatest.batch] Number of Tests Failed      = 0
-   [javatest.batch] Number of Tests with Errors = 0
+   [runcts] OUT => [javatest.batch] Completed running 11027 tests.
+   [runcts] OUT => [javatest.batch] Number of Tests Passed      = 11027
+   [runcts] OUT => [javatest.batch] Number of Tests Failed      = 0
+   [runcts] OUT => [javatest.batch] Number of Tests with Errors = 0
 ```
 
 ### jsf
 ```console
-   [javatest.batch] Completed running 5526 tests.
-   [javatest.batch] Number of Tests Passed      = 5526
-   [javatest.batch] Number of Tests Failed      = 0
-   [javatest.batch] Number of Tests with Errors = 0
+   [runcts] OUT => [javatest.batch] Completed running 5526 tests.
+   [runcts] OUT => [javatest.batch] Number of Tests Passed      = 5526
+   [runcts] OUT => [javatest.batch] Number of Tests Failed      = 0
+   [runcts] OUT => [javatest.batch] Number of Tests with Errors = 0
 ```
 
 ### jsonb
@@ -495,10 +495,10 @@ Apache Derby 10.14.2.0
 
 ### webservices12
 ```console
-[javatest.batch] Completed running 242 tests.
-[javatest.batch] Number of Tests Passed      = 242
-[javatest.batch] Number of Tests Failed      = 0
-[javatest.batch] Number of Tests with Errors = 0
+   [runcts] OUT => [javatest.batch] Completed running 242 tests.
+   [runcts] OUT => [javatest.batch] Number of Tests Passed      = 242
+   [runcts] OUT => [javatest.batch] Number of Tests Failed      = 0
+   [runcts] OUT => [javatest.batch] Number of Tests with Errors = 0
 ```
 
 ### webservice13
