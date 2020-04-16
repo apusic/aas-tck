@@ -463,8 +463,8 @@ Apache Derby 10.14.2.0
 
 ### securityapi
 ```console
-   [runcts] OUT => [javatest.batch] Completed running 83 tests.
-   [runcts] OUT => [javatest.batch] Number of Tests Passed      = 83
+   [runcts] OUT => [javatest.batch] Completed running 84 tests.
+   [runcts] OUT => [javatest.batch] Number of Tests Passed      = 84
    [runcts] OUT => [javatest.batch] Number of Tests Failed      = 0
    [runcts] OUT => [javatest.batch] Number of Tests with Errors = 0
 ```
