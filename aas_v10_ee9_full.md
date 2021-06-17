@@ -15,6 +15,7 @@ AAS V10-EE9
 [Jakarta EE Platform TCK 9.0.2](https://download.eclipse.org/ee4j/jakartaee-tck/jakartaee9/promoted/jakartaeetck-9.0.2.zip), SHA-256: b7fbb6c74d75621df04beadd0510ebbf5a4ae48c63370fa7358d630c717e688c
 
 * Public URL of TCK Results Summary:
+
 [TCK results summary](https://github.com/apusic/aas-tck/blob/master/aas_v10_ee9_full.md)
 
 * Any Additional Specification Certification Requirements:
