@@ -1,21 +1,21 @@
 # TCK Results
 As required by the [Eclipse Foundation Technology Compatibility Kit License](https://www.eclipse.org/legal/tck.php), following is a summary of the TCK results for releases of Jakarta EE Web Profile 9.
 
-## AAS V10-EE9 Web Profile Certification Summary
+## AAS V10-EE9 Jakarta EE 9 TCK Certification Summary
 * Product Name, Version and download URL (if applicable):
 
 AAS V10-EE9
 
 * Specification Name, Version and download URL:
 
-[Jakarta EE Platform, Web Profile 9.0](https://jakarta.ee/specifications/webprofile/9/)
+[Jakarta EE Platform, 9.0](https://jakarta.ee/specifications/platform/9/)
 
 * TCK Version, digital SHA-256 fingerprint and download URL:
 
 [Jakarta EE Platform TCK 9.0.2](https://download.eclipse.org/ee4j/jakartaee-tck/jakartaee9/promoted/jakartaeetck-9.0.2.zip), SHA-256: b7fbb6c74d75621df04beadd0510ebbf5a4ae48c63370fa7358d630c717e688c
 
 * Public URL of TCK Results Summary:
-
+[TCK results summary](https://github.com/apusic/aas-tck/blob/master/aas_v10_ee9_full.md)
 
 * Any Additional Specification Certification Requirements:
 
