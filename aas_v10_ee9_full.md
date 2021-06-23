@@ -89,6 +89,26 @@ Apache Derby, Linux, Ubuntu 20.04.2 LTS
    [runcts] OUT => [javatest.batch] ********************************************************************************
 ```
 
+### ejb30/assembly
+```console
+   [runcts] OUT => [javatest.batch] ********************************************************************************
+   [runcts] OUT => [javatest.batch] Completed running 51 tests.
+   [runcts] OUT => [javatest.batch] Number of Tests Passed      = 51
+   [runcts] OUT => [javatest.batch] Number of Tests Failed      = 0
+   [runcts] OUT => [javatest.batch] Number of Tests with Errors = 0
+   [runcts] OUT => [javatest.batch] ********************************************************************************
+```
+
+### ejb30/bb
+```console
+   [runcts] OUT => [javatest.batch] ********************************************************************************
+   [runcts] OUT => [javatest.batch] Completed running 1193 tests.
+   [runcts] OUT => [javatest.batch] Number of Tests Passed      = 1193
+   [runcts] OUT => [javatest.batch] Number of Tests Failed      = 0
+   [runcts] OUT => [javatest.batch] Number of Tests with Errors = 0
+   [runcts] OUT => [javatest.batch] ********************************************************************************
+```
+
 ### ejb30/lite/appexception
 ```console
    [runcts] OUT => [javatest.batch] ********************************************************************************
@@ -255,6 +275,56 @@ Apache Derby, Linux, Ubuntu 20.04.2 LTS
    [runcts] OUT => [javatest.batch] ********************************************************************************
    [runcts] OUT => [javatest.batch] Completed running 30 tests.
    [runcts] OUT => [javatest.batch] Number of Tests Passed      = 30
+   [runcts] OUT => [javatest.batch] Number of Tests Failed      = 0
+   [runcts] OUT => [javatest.batch] Number of Tests with Errors = 0
+   [runcts] OUT => [javatest.batch] ********************************************************************************
+```
+
+### ejb30/misc
+```console
+   [runcts] OUT => [javatest.batch] ********************************************************************************
+   [runcts] OUT => [javatest.batch] Completed running 100 tests.
+   [runcts] OUT => [javatest.batch] Number of Tests Passed      = 100
+   [runcts] OUT => [javatest.batch] Number of Tests Failed      = 0
+   [runcts] OUT => [javatest.batch] Number of Tests with Errors = 0
+   [runcts] OUT => [javatest.batch] ********************************************************************************
+```
+
+### ejb30/sec
+```console
+   [runcts] OUT => [javatest.batch] ********************************************************************************
+   [runcts] OUT => [javatest.batch] Completed running 99 tests.
+   [runcts] OUT => [javatest.batch] Number of Tests Passed      = 99
+   [runcts] OUT => [javatest.batch] Number of Tests Failed      = 0
+   [runcts] OUT => [javatest.batch] Number of Tests with Errors = 0
+   [runcts] OUT => [javatest.batch] ********************************************************************************
+```
+
+### ejb30/timer
+```console
+   [runcts] OUT => [javatest.batch] ********************************************************************************
+   [runcts] OUT => [javatest.batch] Completed running 178 tests.
+   [runcts] OUT => [javatest.batch] Number of Tests Passed      = 178
+   [runcts] OUT => [javatest.batch] Number of Tests Failed      = 0
+   [runcts] OUT => [javatest.batch] Number of Tests with Errors = 0
+   [runcts] OUT => [javatest.batch] ********************************************************************************
+```
+
+### ejb30/webservice
+``` console
+   [runcts] OUT => [javatest.batch] ********************************************************************************
+   [runcts] OUT => [javatest.batch] Completed running 3 tests.
+   [runcts] OUT => [javatest.batch] Number of Tests Passed      = 3
+   [runcts] OUT => [javatest.batch] Number of Tests Failed      = 0
+   [runcts] OUT => [javatest.batch] Number of Tests with Errors = 0
+   [runcts] OUT => [javatest.batch] ********************************************************************************
+```
+
+### ejb30/zombie
+```console
+   [runcts] OUT => [javatest.batch] ********************************************************************************
+   [runcts] OUT => [javatest.batch] Completed running 1 tests.
+   [runcts] OUT => [javatest.batch] Number of Tests Passed      = 1
    [runcts] OUT => [javatest.batch] Number of Tests Failed      = 0
    [runcts] OUT => [javatest.batch] Number of Tests with Errors = 0
    [runcts] OUT => [javatest.batch] ********************************************************************************
