@@ -19,22 +19,22 @@ Public URL of TCK Results Summary:
 
 Any Additional Specification Certification Requirements:
 
-Jakarta Dependency Injection 1.0 TCK
+Jakarta Dependency Injection 1.0 TCK  
 
-See test results in section di.
+See test results in section di.  
 Download URL & SHA-256: [jakarta.inject-tck-1.0-bin.zip](https://download.eclipse.org/jakartaee/dependency-injection/1.0/jakarta.inject-tck-1.0-bin.zip), SHA-256: b679bac9b1057df894753892a880ba6ade530607dd811157106ed767aa26481f
 
-Jakarta Contexts and Dependency Injection 2.0 TCK
+Jakarta Contexts and Dependency Injection 2.0 TCK  
 
-See test results in section cdi.
+See test results in section cdi.  
 Download URL & SHA-256: [cdi-tck-2.0.6-dist.zip](https://download.eclipse.org/jakartaee/cdi/2.0/cdi-tck-2.0.6-dist.zip), SHA-256: 75e969a7a3b3c77332154a2008309aad821a923d8684139242048a7640762808
 
-Jakarta Bean Validation 2.0 TCK,
+Jakarta Bean Validation 2.0 TCK,  
 
-See test results in section beanvalidation.
+See test results in section beanvalidation.  
 [beanvalidation-tck-dist-2.0.5.zip](https://download.eclipse.org/jakartaee/bean-validation/2.0/beanvalidation-tck-dist-2.0.5.zip), SHA-256: b6778914f78bfcce5d6934347d71502603b1b0a6bbfdfbcf956271c367d40974
 
-Jakarta Batch 1.0 TCK tests are included in Jakarta EE 8 CTS tests, See test results in section jbatch
+Jakarta Batch 1.0 TCK tests are included in Jakarta EE 8 CTS tests, See test results in section jbatch  
 
 Java SE Provider & Version tested with:
 
@@ -669,11 +669,11 @@ Tests run: 1043, Failures: 0, Errors: 0, Skipped: 0
 
 ### cdi
 ```console
-Tests run: 1805, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1,651.375 sec
+Tests run: 1807, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1,651.375 sec
 
 Results :
 
-Tests run: 1805, Failures: 0, Errors: 0, Skipped: 0
+Tests run: 1807, Failures: 0, Errors: 0, Skipped: 0
 ```
 
 ### di
