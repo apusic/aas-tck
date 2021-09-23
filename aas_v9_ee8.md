@@ -599,7 +599,7 @@ Apache Derby
 ```
 
 ### signaturetest
-```
+```console
    [runcts] OUT => [javatest.batch] ********************************************************************************
    [runcts] OUT => [javatest.batch] Completed running 5 tests.
    [runcts] OUT => [javatest.batch] Number of Tests Passed      = 5
@@ -609,7 +609,7 @@ Apache Derby
 ```
 
 ### webservices
-```
+```console
    [runcts] OUT => [javatest.batch] ********************************************************************************
    [runcts] OUT => [javatest.batch] Completed running 507 tests.
    [runcts] OUT => [javatest.batch] Number of Tests Passed      = 507
@@ -619,7 +619,7 @@ Apache Derby
 ```
 
 ### webservices12
-```
+```console
    [runcts] OUT => [javatest.batch] ********************************************************************************
    [runcts] OUT => [javatest.batch] Completed running 242 tests.
    [runcts] OUT => [javatest.batch] Number of Tests Passed      = 242
@@ -629,7 +629,7 @@ Apache Derby
 ```
 
 ### webservices13
-```
+```console
    [runcts] OUT => [javatest.batch] ********************************************************************************
    [runcts] OUT => [javatest.batch] Completed running 53 tests.
    [runcts] OUT => [javatest.batch] Number of Tests Passed      = 53
@@ -639,7 +639,7 @@ Apache Derby
 ```
 
 ### websocket
-```
+```console
    [runcts] OUT => [javatest.batch] ********************************************************************************
    [runcts] OUT => [javatest.batch] Completed running 745 tests.
    [runcts] OUT => [javatest.batch] Number of Tests Passed      = 745
@@ -649,7 +649,7 @@ Apache Derby
 ```
 
 ### xa
-```
+```console
    [runcts] OUT => [javatest.batch] ********************************************************************************
    [runcts] OUT => [javatest.batch] Completed running 66 tests.
    [runcts] OUT => [javatest.batch] Number of Tests Passed      = 66
