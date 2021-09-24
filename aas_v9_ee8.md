@@ -36,7 +36,7 @@ See test results in section beanvalidation.
 
 Jakarta Debugging Support for Other Languages 1.0 TCK  
 See test results in section debugging.  
-[https://download.eclipse.org/jakartaee/debugging/1.0/eclipse-debugging-tck-1.0.0.zip], SHA-256:c15d41a6d34c844d34ea846bd0ed6b5baa0d85cbfc3d05209e4df955ef7a5df7
+[eclipse-debugging-tck-1.0.0.zip](https://download.eclipse.org/jakartaee/debugging/1.0/eclipse-debugging-tck-1.0.0.zip), SHA-256:c15d41a6d34c844d34ea846bd0ed6b5baa0d85cbfc3d05209e4df955ef7a5df7
 
 Jakarta Batch 1.0 TCK tests are included in Jakarta EE 8 CTS tests, See test results in section jbatch  
 
